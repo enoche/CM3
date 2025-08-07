@@ -1,5 +1,6 @@
 # CM3
-Source code for the proposed ($CM^3$) is located at `src/models/cm3.py`.
+Source code for the proposed ($CM^3$) is located at `src/models/cm3.py`.  
+
 
 ## Dependencies
 The script has been tested running under Python 3.7.11, with the following packages installed (along with their dependencies):
