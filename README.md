@@ -1,5 +1,5 @@
 # CM3
-Source code for the proposed ($CM^3$) is located at `src/models/cm3.py`.  
+Source code for the proposed $CM^3$ [arXiv](https://www.arxiv.org/abs/2508.01226) is located at `src/models/cm3.py`.  
 
 
 ## Dependencies
@@ -15,8 +15,8 @@ The script has been tested running under Python 3.7.11, with the following packa
 - The model is based on MMRec. Please refer to the datasets used in the MMRec framework on GitHub.
 
 ## How to run
-1. Put your downloaded data (e.g. `baby`) under `data` dir.
+1. Put your downloaded data (e.g. `sports`) under `data` dir.
 2. Enter `src` folder and run with  
-`python main.py -m CM3 -d baby`  
+`python main.py -m CM3 -d sports`  
 You may specify other parameters in CMD or config with `configs/model/*.yaml` and `configs/dataset/*.yaml`.
 
